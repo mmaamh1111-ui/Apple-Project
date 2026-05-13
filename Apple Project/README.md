@@ -115,10 +115,10 @@ This analysis provided Apple (as a simulated business case) with:
 ## 📊 Dashboard Preview
 
 ### 🔹 Overview Dashboard
-![Apple Dashboard 1](Image6)
+![Apple Dashboard 1](image6.png)
 
 ### 🔹 Deep Analysis Dashboard
-![Apple Dashboard 2](Image7)
+![Apple Dashboard 2](image7.png)
 
 ---
 
